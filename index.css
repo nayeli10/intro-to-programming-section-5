@@ -13,3 +13,8 @@ main {
 #reset {
   margin: 20px;
 }
+
+#error{
+  color: red;
+  font-weight: bolder;
+}
